@@ -1,4 +1,4 @@
-# Github Basics
+## Github Basics
 Now learning Github Basics.
 
 Learning REAMDE markdowns.
